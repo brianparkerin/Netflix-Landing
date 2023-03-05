@@ -1,7 +1,7 @@
 # Netflix-Landing
 
 
-This is the NETFLIX Landing for Learn More About Code....
+This is the NETFLIX Landing for Learn More About Code Aspect...
 
 View Project: https://brianparkerin.github.io/Netflix-Landing/
 
